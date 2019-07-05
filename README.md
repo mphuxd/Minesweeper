@@ -1,5 +1,6 @@
 # Minesweeper
 Console-based Minesweeper game
+
 This was the final project assigned for ECS30 - Programming and Problem Solving in C
 
 The game of minesweeper works as follows:
